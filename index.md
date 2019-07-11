@@ -7,7 +7,8 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Introduction 
 - *[Story Map Tour]*
 - - Making a Story Map Tour
-- - more sub delicious
+- - Preview
+- - Share
 - Conclusion
 - Further Reading/Resources
 
@@ -114,8 +115,52 @@ The Story Map Tour allows you to link photos and videos with an interactive map.
 ![Add](images/Add.PNG)
 
 25. Repeat steps 5-9.
-26.
-#### More Sub Delicious
+26. To alter the order of the points, click the bottom icon on the toolbar.
+
+![Order](images/Order.PNG)
+
+27. To reorder a slide, simply drag and drop it where you would like it to be.
+
+![Reorder](images/Reorder.PNG)
+
+28. If you would like to set a cover page, you can click the box next to **Use the first point as a cover page**.
+
+![Cover](images/Cover.PNG)
+
+29. You can reset any changes by clicking **Reset order and hidden points**.
+
+![Reset](images/Reset.PNG)
+
+30. To hide or delete an image, select it and click **Hide** or **Delete**.
+
+![HD](images/HD.PNG)
+
+31. When you are satisfied, click **Apply**.
+
+![Apply](images/Apply.PNG)
+
+32. Remember to keep saving the project!
+
+#### Preview
+1. When you are ready to preview your story map, click the *View Story* icon.
+
+![Eye](images/Eye.PNG)
+
+2. This opens a new tab that allows you to navigate through your story map as a reader.
+
+![Navigate](images/Navigate.PNG)
+
+3. When you are done viewing the story map, close the tab.
+
+#### Share
+1. To share your story map click the *Share* icon.
+
+![Share](images/Share.PNG)
+
+2. You can choose to **Share publicly**, **Share with my Organization** or **Close**.
+3. If you choose to **Share publicly** a new window opens with a link to your story. You can copy this and save it to later share with people. 
+
+![Link](images/Link.PNG)
 
 ## Conclusion
 
