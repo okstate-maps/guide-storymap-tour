@@ -164,6 +164,7 @@ The Story Map Tour allows you to link photos and videos with an interactive map.
 
 ## Conclusion
 Story Map Tours are a great resource for guiding people through an area while providing images and details alongside a map.
+
 ## Further Reading/Resources
 
 
